@@ -29,14 +29,3 @@ This repository contains a Spring Boot application implementing a RESTful API fo
 2. Navigate to the project directory.
 3. Run the application using your preferred IDE or build tool.
 4. Access the API endpoints using a tool like Postman or a web browser.
-
-## Contributing
-Contributions to this repository are welcome. Feel free to submit pull requests for bug fixes, enhancements, or new features.
-
-## License
-This project is licensed under the [insert appropriate license here]. See the LICENSE file for details.
-
-## Contact
-For any inquiries or issues, please open an issue in the repository, and we'll be happy to assist you.
-
-Thank you for using our Spring Boot RESTful API for User Management! We hope you find it useful and reliable for your projects.
